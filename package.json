@@ -41,7 +41,6 @@
     "@react-aria/visually-hidden": "3.8.20",
     "@types/markdown-it": "^14.1.2",
     "@types/sanitize-html": "^2.16.0",
-	"@tailwindcss/postcss": "^4.0.0-alpha.13",
     "chalk": "^5.4.1",
     "cheerio": "^1.1.0",
     "class-variance-authority": "^0.7.1",
